@@ -5,7 +5,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>31a4c6e0-0acc-4950-8001-e1928bcd6f99</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>Problem 3.py</StartupFile>
+    <StartupFile>Problem 4.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -30,6 +30,9 @@
     </Compile>
     <Compile Include="Problem 1.py" />
     <Compile Include="Problem 2.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Problem 4.py">
       <SubType>Code</SubType>
     </Compile>
   </ItemGroup>
