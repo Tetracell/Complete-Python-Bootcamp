@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.23107.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Milestone Projects", "..\Complete-Python-Bootcamp\Milestone Projects\Milestone Projects.pyproj", "{26E78B30-FDCF-4837-8013-5B2B7C6F2027}"
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Milestone Projects", "Milestone Projects\Milestone Projects.pyproj", "{26E78B30-FDCF-4837-8013-5B2B7C6F2027}"
 EndProject
-Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Advanced Functions Test", "..\Complete-Python-Bootcamp\Advanced Functions Test\Advanced Functions Test.pyproj", "{31A4C6E0-0ACC-4950-8001-E1928BCD6F99}"
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Advanced Functions Test", "Advanced Functions Test\Advanced Functions Test.pyproj", "{31A4C6E0-0ACC-4950-8001-E1928BCD6F99}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Homework and Exercises", "Homework and Exercises\Homework and Exercises.pyproj", "{3344C4F4-34D5-4950-87D4-DEF40E2FCB54}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,6 +19,8 @@ Global
 		{26E78B30-FDCF-4837-8013-5B2B7C6F2027}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{31A4C6E0-0ACC-4950-8001-E1928BCD6F99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{31A4C6E0-0ACC-4950-8001-E1928BCD6F99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3344C4F4-34D5-4950-87D4-DEF40E2FCB54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3344C4F4-34D5-4950-87D4-DEF40E2FCB54}.Release|Any CPU.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

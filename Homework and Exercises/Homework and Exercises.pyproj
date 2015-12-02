@@ -3,16 +3,15 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>31a4c6e0-0acc-4950-8001-e1928bcd6f99</ProjectGuid>
+    <ProjectGuid>3344c4f4-34d5-4950-87d4-def40e2fcb54</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>Problem 6.py</StartupFile>
+    <StartupFile>Iterators and Generators\Problem 3.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
     <OutputPath>.</OutputPath>
-    <Name>Advanced Functions Test</Name>
-    <RootNamespace>Advanced Functions Test</RootNamespace>
-    <IsWindowsApplication>False</IsWindowsApplication>
+    <Name>Homework and Exercises</Name>
+    <RootNamespace>Homework and Exercises</RootNamespace>
     <InterpreterId>{33c9a1a4-e15a-4288-88a5-a98664f812f9}</InterpreterId>
     <InterpreterVersion>2.7</InterpreterVersion>
   </PropertyGroup>
@@ -25,22 +24,16 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="Problem 3.py">
+    <Compile Include="Iterators and Generators\Problem 1.py" />
+    <Compile Include="Iterators and Generators\Problem 2.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="Problem 1.py" />
-    <Compile Include="Problem 2.py">
+    <Compile Include="Iterators and Generators\Problem 3.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="Problem 4.py">
-      <SubType>Code</SubType>
-    </Compile>
-    <Compile Include="Problem 5.py">
-      <SubType>Code</SubType>
-    </Compile>
-    <Compile Include="Problem 6.py">
-      <SubType>Code</SubType>
-    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Iterators and Generators\" />
   </ItemGroup>
   <ItemGroup>
     <InterpreterReference Include="{33c9a1a4-e15a-4288-88a5-a98664f812f9}\2.7" />
